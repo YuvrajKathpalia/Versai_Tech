@@ -1,8 +1,8 @@
-# Authentication & Profile UI Demo
+# Authentication & Profile UI
 
 A modern, responsive React UI demonstration showcasing authentication and profile management interfaces, built with React, Vite, and Tailwind CSS. This project is a frontend UI prototype only for the assignment completion purposes with no actual authentication functionality, designed to display clean interfaces for login, registration, password reset, user profile updates, and order history visualization.
 
-[Demo Link](https://your-demo-link-here) 
+[Demo Link](https://versai-tech.vercel.app/) 
 
 ## About This Project
 
